@@ -7,7 +7,7 @@ This repository collects playable prototypes made during the **USC CSCI 526** co
 
 ## 📂 Assignments & Missions
 
-### Assignment 1: Basics
+### Assignment 1:
 
 | Project | Playable Demo | Readme |
 |-------------|---------------|--------|
