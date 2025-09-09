@@ -1,8 +1,0 @@
-# Treat Unity WebGL outputs as binary (no EOL conversion)
-*.unityweb binary
-*.data.unityweb binary
-*.wasm.unityweb binary
-*.js.unityweb binary
-*.br binary
-*.wasm binary
-*.data binary
