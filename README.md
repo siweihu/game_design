@@ -1,4 +1,4 @@
-# USC CSCI 526 - Unity Course Demos
+# CSCI 526 - Unity Course Demos
 
 This repository collects playable prototypes made during the **USC CSCI 526** course.  
 ⚠️ These are **simple demos** for coursework, not polished games.
@@ -11,4 +11,4 @@ This repository collects playable prototypes made during the **USC CSCI 526** co
 
 | Mission | Description | Playable Link |
 |---------|-------------|---------------|
-| Mission 1.1 | 3D Objects & Materials | [Play Demo]() |
+| Mission 1.1 | 3D Objects & Materials | [Demo]() |
